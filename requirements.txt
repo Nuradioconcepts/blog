@@ -1,0 +1,16 @@
+sphinx
+sphinx-rtd-theme
+sphinxcontrib-seqdiag
+sphinxcontrib-blockdiag
+sphinx-autobuild
+sphinx-autoapi
+docutils
+funcparserlib
+sphinx-toolbox
+sphinx-copybutton
+sphinx-hoverxref
+sphinxcontrib-plantuml
+sphinx-tabs
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-googleanalytics
